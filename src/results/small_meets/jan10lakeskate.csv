@@ -1,0 +1,140 @@
+Place,Tm,Bib-Name,Team,Gr,M/F,Time,Per Mi,Per Km
+1,---,902-Anders Sonnesyn,Wayzata,12,M,11:47.7305,3:47.796,2:21.550
+2,---,301-PJ Rubin,Edina,11,M,11:49.5586,3:48.385,2:21.910
+3,---,502-Logan Hoffman,Hopkins,12,M,11:50.1719,3:48.582,2:22.030
+4,---,101-David De Jong,Eden Prairie,12,M,11:53.750,3:49.734,2:22.750
+5,---,303-Matthew Egger,Edina,11,M,12:19.2109,3:57.929,2:27.840
+6,---,102-Lucas Schnirring,Eden Prairie,12,M,12:20.2188,3:58.253,2:28.040
+7,---,702-Luke MacKinnon,Minnetonka,11,M,12:20.2188,3:58.253,2:28.040
+8,---,103-Eric Wurst,Eden Prairie,12,M,12:21.4492,3:58.649,2:28.290
+9,---,703-Thomas Atwood,Minnetonka,11,M,12:29.7383,4:01.317,2:29.950
+10,---,505-Philip Dirnberger,Hopkins,11,M,12:34.2188,4:02.760,2:30.840
+11,---,701-Macallister Karrick,Minnetonka,12,M,12:34.6211,4:02.889,2:30.920
+12,---,108-Austin Morrow,Eden Prairie,12,M,12:37.250,4:03.735,2:31.450
+13,---,501-Isaac Eng,Hopkins,12,M,12:39.6797,4:04.517,2:31.940
+14,---,904-Erik Williams,Wayzata,12,M,12:44.9688,4:06.220,2:32.990
+15,---,302-August Blanchett,Edina,12,M,12:53.750,4:09.046,2:34.750
+16,---,504-Caleb Dunnewind,Hopkins,10,M,13:04.8516,4:12.619,2:36.970
+17,---,905-Samuel Smith,Wayzata,12,M,13:05.6719,4:12.883,2:37.130
+18,---,104-Garret McLaughlin,Eden Prairie,11,M,13:08.250,4:13.713,2:37.650
+19,---,506-Ray Brendalen,Hopkins,12,M,13:08.9297,4:13.932,2:37.790
+20,---,109-Peter Oviguian,Eden Prairie,11,M,13:08.9805,4:13.948,2:37.800
+21,---,503-Sean Hunwardsen,Hopkins,12,M,13:09.1289,4:13.996,2:37.830
+22,---,110-Nathan Claver,Eden Prairie,12,M,13:10.6094,4:14.472,2:38.120
+23,---,112-Liam Penn,Eden Prairie,11,M,13:14.6992,4:15.789,2:38.940
+24,---,907-Colin Freed,Wayzata,9,M,13:16.6289,4:16.410,2:39.330
+25,---,105-Sam Marble,Eden Prairie,11,M,13:19.6797,4:17.392,2:39.940
+26,---,906-Walter Smith,Wayzata,12,M,13:21.500,4:17.978,2:40.300
+27,---,707-Thomas Graupmann,Minnetonka,10,M,13:22.1211,4:18.178,2:40.420
+28,---,113-Seth Welder,Eden Prairie,12,M,13:24.8203,4:19.047,2:40.960
+29,---,111-Aidan St. George,Eden Prairie,11,M,13:27.250,4:19.829,2:41.450
+30,---,304-Anders Carlson,Edina,12,M,13:28.750,4:20.311,2:41.750
+31,---,507-Paul Zeitz,Hopkins,12,M,13:36.500,4:22.806,2:43.300
+32,---,704-Dylan Green,Minnetonka,10,M,13:41.5781,4:24.440,2:44.320
+33,---,911-Ryan Sullivan,Wayzata,12,M,13:42.8711,4:24.857,2:44.570
+34,---,903-James Schneider,Wayzata,10,M,13:43.1797,4:24.956,2:44.640
+35,---,901-Luc Golin,Wayzata,12,M,13:43.1992,4:24.962,2:44.640
+36,---,106-Jack Marble,Eden Prairie,11,M,13:46.6602,4:26.076,2:45.330
+37,---,509-Ben Katona,Hopkins,12,M,13:49.5117,4:26.994,2:45.900
+38,---,706-Sam Henke,Minnetonka,12,M,13:50.1094,4:27.186,2:46.020
+39,---,306-Peter Rock,Edina,11,M,13:51.500,4:27.634,2:46.300
+40,---,114-Zach Spears,Eden Prairie,10,M,13:51.7617,4:27.718,2:46.350
+41,---,711-Liam McConnel,Minnetonka,12,M,14:22.9102,4:37.744,2:52.580
+42,---,305-Mark Ellenberger,Edina,12,M,14:23.6016,4:37.966,2:52.720
+43,---,912-Issac Polum,Wayzata,12,M,14:26.8984,4:39.028,2:53.380
+44,---,708-Julian Calder,Minnetonka,10,M,14:28.7617,4:39.627,2:53.750
+45,---,909-Alexander Pemberton,Wayzata,10,M,14:30.9883,4:40.344,2:54.200
+46,---,510-Seth Schricker,Hopkins,11,M,14:35.1211,4:41.674,2:55.020
+47,---,309-Eli Frenkel,Edina,9,M,14:36.1094,4:41.992,2:55.220
+48,---,107-Bryce Whitley,Eden Prairie,11,M,14:36.7695,4:42.205,2:55.350
+49,---,511-James Miller,Hopkins,11,M,14:39.9297,4:43.222,2:55.990
+50,---,908-Max Liao,Wayzata,12,M,14:40.129,4:43.286,2:56.030
+51,---,709-Hari Chidambaram,Minnetonka,9,M,14:41.262,4:43.651,2:56.250
+52,---,705-Stanley Kohls,Minnetonka,12,M,14:41.8594,4:43.843,2:56.370
+53,---,712-Zane Bush,Minnetonka,12,M,14:43.150,4:44.258,2:56.630
+54,---,710-Cameron Anundson,Minnetonka,11,M,14:52.910,4:47.400,2:58.580
+55,---,714-Andrew Carroll,Minnetonka,10,M,14:53.730,4:47.664,2:58.750
+56,---,508-Sam Eklund,Hopkins,12,M,14:56.578,4:48.580,2:59.320
+57,---,913-Noah Kaster,Wayzata,8,M,14:58.391,4:49.164,2:59.680
+58,---,713-Evan Freed,Minnetonka,10,M,15:07.730,4:52.170,3:01.550
+59,---,910-Hugo Dunn,Wayzata,12,M,15:10.379,4:53.023,3:02.080
+60,---,914-Alex Pierce,Wayzata,12,M,15:17.480,4:55.308,3:03.500
+61,---,307-Willem Gokemeijer,Edina,11,M,15:24.1094,4:57.442,3:04.820
+62,---,512-Ian Baxter,Hopkins,12,M,15:42.762,5:03.446,3:08.550
+63,---,310-Peter Zahn,Edina,12,M,15:48.730,5:05.367,3:09.750
+64,---,308-Noah Rudi,Edina,11,M,15:54.422,5:07.199,3:10.880
+65,---,311-Peter Mans,Edina,8,M,16:12.262,5:12.941,3:14.450
+66,---,313-Andrew DeFor,Edina,7,M,16:22.762,5:16.320,3:16.550
+67,---,513-Isaac Zickerman,Hopkins,11,M,16:23.660,5:16.609,3:16.730
+68,---,514-Trent Hunwardsen,Hopkins,9,M,16:35.762,5:20.505,3:19.150
+69,---,312-Charlie Zdechlik,Edina,10,M,16:50.211,5:25.155,3:22.040
+70,---,314-Brooks Quinby,Edina,11,M,16:55.262,5:26.781,3:23.050
+Place,Tm,Bib-Name,Team,Gr,M/F,Time,Per Mi,Per Km
+1,---,1001-Mara McCollor,Wayzata,11,F,13:51.441,4:27.615,2:46.290
+2,---,1002-Lauren McCollor,Wayzata,9,F,14:06.488,4:32.458,2:49.300
+3,---,401-Ellen Pflaster,Edina,12,F,14:14.770,4:35.124,2:50.950
+4,---,1003-Carolyn House,Wayzata,11,F,14:33.859,4:41.268,2:54.770
+5,---,603-Kaelin Jackson,Hopkins,11,F,14:34.270,4:41.400,2:54.850
+6,---,602-Ellie Munger,Hopkins,10,F,14:39.141,4:42.968,2:55.830
+7,---,604-Lauren Munger,Hopkins,8,F,14:39.738,4:43.160,2:55.950
+8,---,202-Sophia Truempi,Eden Prairie,12,F,14:43.3979,4:44.338,2:56.680
+9,---,601-Lily Den Hartog,Hopkins,12,F,14:44.8199,4:44.796,2:56.960
+10,---,1004-Emily Ingemann,Wayzata,10,F,14:44.8199,4:44.796,2:56.960
+11,---,201-Kayla Bovitz,Eden Prairie,12,F,14:49.730,4:46.376,2:57.950
+12,---,203-Kareena Bovitz,Eden Prairie,10,F,14:49.8979,4:46.430,2:57.980
+13,---,405-Claire Wagner,Edina,10,F,14:50.512,4:46.628,2:58.100
+14,---,402-Emily Kompelien,Edina,12,F,15:02.520,4:50.493,3:00.500
+15,---,1006-Anna Healy,Wayzata,12,F,15:11.270,4:53.309,3:02.250
+16,---,406-Sadie Schreiner,Edina,10,F,15:14.480,4:54.343,3:02.900
+17,---,404-Abby Mans,Edina,12,F,15:15.270,4:54.597,3:03.050
+18,---,208-Liesl Paulsen,Eden Prairie,10,F,15:17.422,4:55.290,3:03.480
+19,---,204-Rachel Boelke,Eden Prairie,10,F,15:19.270,4:55.884,3:03.850
+20,---,802-Elizabeth Honey,Minnetonka,12,F,15:19.9611,4:56.107,3:03.990
+21,---,1005-Anna Ingemann,Wayzata,12,F,15:20.520,4:56.287,3:04.100
+22,---,605-Kyra Jackson,Hopkins,12,F,15:27.770,4:58.620,3:05.550
+23,---,207-Elise Welder,Eden Prairie,10,F,15:41.250,5:02.959,3:08.250
+24,---,1012-Ingrid Halverson,Wayzata,9,F,15:41.6021,5:03.072,3:08.320
+25,---,803-Cally Ryan,Minnetonka,11,F,15:49.770,5:05.701,3:09.950
+26,---,409-Maggie Wagner,Edina,8,F,16:04.270,5:10.368,3:12.850
+27,---,801-Sophia Hicks,Minnetonka,11,F,16:04.441,5:10.423,3:12.890
+28,---,1007-Leah Wagner,Wayzata,12,F,16:10.8979,5:12.502,3:14.180
+29,---,210-Annie Lee,Eden Prairie,12,F,16:19.281,5:15.200,3:15.860
+30,---,804-Olivia Graupmann,Minnetonka,10,F,16:19.469,5:15.261,3:15.890
+31,---,1010-Ella Harris,Wayzata,10,F,16:19.531,5:15.280,3:15.910
+32,---,1011-Abigail Bremseth,Wayzata,10,F,16:22.551,5:16.253,3:16.510
+33,---,211-Allie Gross,Eden Prairie,10,F,16:23.988,5:16.715,3:16.800
+34,---,1014-Claire Parham,Wayzata,10,F,16:36.621,5:20.781,3:19.320
+35,---,1008-Marina Berardino,Wayzata,12,F,16:41.488,5:22.348,3:20.300
+36,---,205-Ella Bakken,Eden Prairie,9,F,16:43.770,5:23.082,3:20.750
+37,---,403-Madeline Lawler,Edina,11,F,16:48.512,5:24.609,3:21.700
+38,---,1013-Samantha Corning,Wayzata,10,F,16:55.480,5:26.851,3:23.100
+39,---,407-Heidi Engman,Edina,10,F,16:58.250,5:27.743,3:23.650
+40,---,608-Laci Provenzano,Hopkins,9,F,17:05.238,5:29.992,3:25.050
+41,---,1009-Elisa Millan,Wayzata,9,F,17:07.660,5:30.772,3:25.530
+42,---,408-Liesl Schreiner,Edina,11,F,17:10.488,5:31.682,3:26.100
+43,---,209-Lara Welter,Eden Prairie,10,F,17:15.531,5:33.305,3:27.110
+44,---,807-Amanda Marks,Minnetonka,12,F,17:16.270,5:33.543,3:27.250
+45,---,606-Lily Provenzano,Hopkins,11,F,17:20.148,5:34.791,3:28.030
+46,---,206-Caitlin O'Toole,Eden Prairie,12,F,17:23.180,5:35.767,3:28.640
+47,---,808-Corinne Petersen,Minnetonka,9,F,17:38.719,5:40.769,3:31.740
+48,---,607-Shoshanna Peifer,Hopkins,11,F,17:39.309,5:40.958,3:31.860
+49,---,805-Jaden Neal,Minnetonka,12,F,17:44.270,5:42.555,3:32.850
+50,---,609-Elletta Firehammer,Hopkins,10,F,17:44.770,5:42.716,3:32.950
+51,---,214-Alex Weisshaar,Eden Prairie,12,F,17:47.660,5:43.646,3:33.530
+52,---,813-Pieper Meccia,Minnetonka,9,F,17:53.281,5:45.456,3:34.660
+53,---,412-Sadie Hinrichs,Edina,11,F,17:55.281,5:46.099,3:35.060
+54,---,410-Katherine Mendel,Edina,12,F,18:03.488,5:48.741,3:36.700
+55,---,810-Siobhan Cleary,Minnetonka,12,F,18:04.781,5:49.157,3:36.960
+56,---,811-Anna Wander,Minnetonka,10,F,18:05.500,5:49.389,3:37.100
+57,---,411-Sophia Behling,Edina,11,F,18:08.141,5:50.239,3:37.630
+58,---,413-Cecilia Bourbour,Edina,11,F,18:17.898,5:53.379,3:39.580
+59,---,611-Ati Hernke,Hopkins,11,F,18:33.730,5:58.475,3:42.750
+60,---,213-Haley Lundeen,Eden Prairie,12,F,18:35.762,5:59.129,3:43.150
+61,---,812-Annika Irene,Minnetonka,11,F,18:36.770,5:59.453,3:43.350
+62,---,414-Caroline Machart,Edina,11,F,18:39.809,6:00.432,3:43.960
+63,---,613-Lucy Avenson,Hopkins,11,F,18:46.750,6:02.666,3:45.350
+64,---,814-Olivia Pfaendtner,Minnetonka,12,F,18:55.891,6:05.608,3:47.180
+65,---,610-Greta Mielke,Hopkins,9,F,19:02.961,6:07.884,3:48.590
+66,---,809-Grace Kowalski,Minnetonka,11,F,20:07.371,6:28.615,4:01.470
+67,---,612-Ellen Mattson,Hopkins,11,F,20:09.531,6:29.310,4:01.910
+68,---,614-Sarina Bissell,Hopkins,12,F,21:07.281,6:47.898,4:13.460

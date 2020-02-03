@@ -1,0 +1,220 @@
+Place,Team,Score,Points,Avg Time,Pace,,
+1,Highland Park,486,"(100, 99, 98, 96, 93)",0:17:14,0:03:27,,
+2,Central,450,"(97, 94, 92, 86, 81)",0:18:56,0:03:47,,
+3,Orono,397.5,"(89, 84, 79, 76.5, 69)",0:20:26,0:04:05,,
+4,Visitation,359,"(87, 78, 68, 66, 60)",0:21:48,0:04:22,,
+5,Mound Westonka,341,"(74, 72, 70, 63, 62)",0:22:13,0:04:27,,
+6,Holy Family,327,"(91, 75, 67, 50, 44)",0:23:11,0:04:38,,
+7,Como Park,314,"(95, 71, 56, 47, 45)",0:24:02,0:04:48,,
+Place,"Name, Grade",Team,School,Time,Pace,Back,Points
+1,"Molly Moening, 8",1,Highland Park,0:16:02,0:03:12,0:00:00,100
+2,"Celeste Alden, 9",2,Highland Park,0:16:08,0:03:14,0:00:06,99
+3,"Anna Schmidt, 9",3,Highland Park,0:17:45,0:03:33,0:01:43,98
+4,"Claire Weissman, 11",1,Central,0:17:48,0:03:34,0:01:46,97
+5,"Maeve Moening, 9",4,Highland Park,0:17:51,0:03:34,0:01:49,96
+6,"Saylor Landrum, 8",1,Como Park,0:18:08,0:03:38,0:02:06,95
+7,"Loretta-Rose Wacek, 9",2,Central,0:18:14,0:03:39,0:02:12,94
+8,"Addie Fabel, 8",5,Highland Park,0:18:22,0:03:40,0:02:20,93
+9,"Kaia Hilgendorf-Roost, 10",3,Central,0:18:33,0:03:43,0:02:31,92
+10,"Maggie Mahota, 12",1,Holy Family,0:18:36,0:03:43,0:02:34,91
+11,"Silja Earl-Tornainen, 8",6,Highland Park,0:18:38,0:03:44,0:02:36,90
+12,"Alexis Mullen, 11",1,Orono,0:18:43,0:03:45,0:02:41,89
+13,"Lauren Mendoza, 12",7,Highland Park,0:19:04,0:03:49,0:03:02,88
+14,"Margaret Dalseth, 9",1,Visitation,0:19:14,0:03:51,0:03:12,87
+15,"Mary Ostergren, 11",4,Central,0:19:38,0:03:56,0:03:36,86
+16,"Caroline Harding, 10",8,Highland Park,0:19:39,0:03:56,0:03:37,85
+17,"Jenny Haus, 12",2,Orono,0:19:45,0:03:57,0:03:43,84
+18,"Rayna Axelson, 8",9,Highland Park,0:19:53,0:03:59,0:03:51,83
+19,"Claire Temali, 9",10,Highland Park,0:20:22,0:04:04,0:04:20,82
+20,"Nora Barnard, 9",5,Central,0:20:27,0:04:05,0:04:25,81
+21,"Dana Fried, 11",6,Central,0:20:35,0:04:07,0:04:33,80
+22,"Sonja Squiers, 11",3,Orono,0:20:41,0:04:08,0:04:39,79
+23,"Erin McQuillan, 8",2,Visitation,0:20:42,0:04:08,0:04:40,78
+24,"Avalon Johnson, 10",4,Orono,0:20:46,0:04:09,0:04:44,76.5
+24,"Flannery Meekin, 10",7,Central,0:20:46,0:04:09,0:04:44,76.5
+26,"Megan Beulke, 12",2,Holy Family,0:20:53,0:04:11,0:04:51,75
+27,"Lauren Lachenmayer, 11",1,Mound Westonka,0:20:57,0:04:11,0:04:55,74
+28,"Hanna Saveraid, 10",8,Central,0:21:27,0:04:17,0:05:25,73
+29,"Liza Rice, 11",2,Mound Westonka,0:21:47,0:04:21,0:05:45,72
+30,"Therese Corniea, 10",2,Como Park,0:22:06,0:04:25,0:06:04,71
+31,"Molly Schoephoerster, 12",3,Mound Westonka,0:22:14,0:04:27,0:06:12,70
+32,"Louise Rosenbaum, 10",5,Orono,0:22:17,0:04:27,0:06:15,69
+33,"Norah Grimes, 10",3,Visitation,0:22:22,0:04:28,0:06:20,68
+34,"Erin Schneider, 11",3,Holy Family,0:22:33,0:04:31,0:06:31,67
+35,"Anna Nickelson, 10",4,Visitation,0:22:36,0:04:31,0:06:34,66
+36,"Naomi Ohman, 10",6,Orono,0:22:50,0:04:34,0:06:48,65
+37,"Ellen Ferry, 12",9,Central,0:22:52,0:04:34,0:06:50,64
+38,"Calli Battis, 12",4,Mound Westonka,0:22:59,0:04:36,0:06:57,63
+39,"Audrey Woychick, 12",5,Mound Westonka,0:23:08,0:04:38,0:07:06,62
+40,"Sophia Kouay, 12",10,Central,0:23:16,0:04:39,0:07:14,61
+41,"Meg Pryor, 12",5,Visitation,0:24:07,0:04:49,0:08:05,60
+42,"Grace Hanson, 10",6,Mound Westonka,0:24:41,0:04:56,0:08:39,59
+43,"Quincy Shelp, 8",7,Orono,0:24:51,0:04:58,0:08:49,58
+44,"Clare Pryor, 10",6,Visitation,0:24:57,0:04:59,0:08:55,57
+45,"Eva Hanson, 12",3,Como Park,0:25:04,0:05:01,0:09:02,56
+46,"Ela Paske, 9",7,Visitation,0:25:21,0:05:04,0:09:19,55
+47,"Serena Laing, 12",8,Orono,0:25:39,0:05:08,0:09:37,54
+48,"Thea Cox, 12",8,Visitation,0:25:44,0:05:09,0:09:42,53
+49,"Elizabeth Weber, 10",9,Visitation,0:25:58,0:05:12,0:09:56,52
+50,"Kate McGown, 10",7,Mound Westonka,0:26:14,0:05:15,0:10:12,51
+51,"Ellie Marschall, 11",4,Holy Family,0:26:20,0:05:16,0:10:18,50
+52,"Ellie Becker, 8",8,Mound Westonka,0:26:51,0:05:22,0:10:49,49
+53,"Carly McGown, 9",9,Mound Westonka,0:27:03,0:05:25,0:11:01,48
+54,"Bridget Proper, 11",4,Como Park,0:27:19,0:05:28,0:11:17,47
+55,"Claire Aamodt, 9",10,Visitation,0:27:21,0:05:28,0:11:19,46
+56,"Claire Olson, 9",5,Como Park,0:27:31,0:05:30,0:11:29,45
+57,"Allie Phillips, 11",5,Holy Family,0:27:35,0:05:31,0:11:33,44
+58,"Sarah Malchow, 10",10,Mound Westonka,0:27:40,0:05:32,0:11:38,43
+59,"Shannon Furlong, 10",6,Holy Family,0:28:12,0:05:38,0:12:10,42
+Girls JV,,,,,,,
+Place,"Name, Grade",Team,School,Time,Pace,Back,
+1,"Ellie Egbert, 12",1,Highland Park,0:19:03,0:03:49,0:00:00,
+2,"Rachel Poppleton, 7",1,Central,0:20:05,0:04:01,0:01:02,
+3,"Ellie Shuros,10",2,Highland Park,0:20:17,0:04:03,0:01:14,
+4,"Anna Gregg-Escalante, 8",3,Highland Park,0:21:19,0:04:16,0:02:16,
+5,"Clare Swanson, 7",4,Highland Park,0:21:58,0:04:24,0:02:55,
+6,"Linnea Krall,11",5,Highland Park,0:21:59,0:04:24,0:02:56,
+7,"Frances Atmore,10",6,Highland Park,0:22:04,0:04:25,0:03:01,
+7,"Julia Thompson, 9",6,Highland Park,0:22:04,0:04:25,0:03:01,
+9,"Sophia Mears, 8",8,Highland Park,0:22:35,0:04:31,0:03:32,
+10,"Amelia Ley, 9",2,Central,0:22:44,0:04:33,0:03:41,
+11,"Grace McCulloch, 10",9,Highland Park,0:23:04,0:04:37,0:04:01,
+12,"Emma Rhode, 11",3,Central,0:23:08,0:04:38,0:04:05,
+13,"Madeline Mears, 8",10,Highland Park,0:23:26,0:04:41,0:04:23
+14,"Claire Wilcox, 9",11,Highland Park,0:23:28,0:04:42,0:04:25
+15,"Tereza Hakova, 11",12,Highland Park,0:23:31,0:04:42,0:04:28
+16,"Chloe Koch, 7",13,Highland Park,0:23:37,0:04:43,0:04:34
+17,"Johanna Aust, 8",14,Highland Park,0:24:06,0:04:49,0:05:03
+17,"Sophia Rabins, 10",4,Central,0:24:06,0:04:49,0:05:03
+19,"Claire Dwyer, 10",15,Highland Park,0:24:33,0:04:55,0:05:30
+20,"Paige Thaler, 9",1,Visitation,0:24:45,0:04:57,0:05:42
+21,"Marybelle Kim, 10",5,Central,0:26:08,0:05:14,0:07:05
+22,"Bridget Lee, 9",6,Central,0:26:22,0:05:16,0:07:19
+23,"Amelia Moseman, 9",7,Central,0:26:49,0:05:22,0:07:46
+24,"Isabel Adson, 9",16,Highland Park,0:26:50,0:05:22,0:07:47
+25,"Delia Johnson, 7",17,Highland Park,0:27:12,0:05:26,0:08:09
+26,"Eleanor Westin, 9",8,Central,0:27:24,0:05:29,0:08:21
+27,"Isabele Lutter, 11",9,Central,0:28:05,0:05:37,0:09:02
+28,"Bella Cox, 9",2,Visitation,0:28:26,0:05:41,0:09:23
+29,"Eleanor Osmond, 7",18,Highland Park,0:29:20,0:05:52,0:10:17
+30,"Ava Bjorkman-Tracy, 9",10,Central,0:31:00,0:06:12,0:11:57
+31,"Lily Vargo, 9",11,Central,0:31:35,0:06:19,0:12:32
+32,"Elena Angelo, 9",19,Highland Park,0:32:04,0:06:25,0:13:01
+33,"Sarah Brammer, 11",1,Mound Westonka,0:32:24,0:06:29,0:13:21
+34,"Josie Khan, 10",20,Highland Park,0:33:02,0:06:36,0:13:59
+35,"Mary Kristjanson, 8",21,Highland Park,0:34:32,0:06:54,0:15:29
+36,"Frances Myers, 9",12,Central,0:38:37,0:07:43,0:19:34
+TCNSC 5k Skate Race @ Battle Creek,,,,,,,
+"40 Degrees F,","5 mph wind, wet track",,,,,,
+Boys Varsity,,,,Top Five Skiers from Each Team Score,,,
+,,,,,Avg,,
+Place,Team,Score,Points,Avg Time,Pace,,
+1,Highland Park,480,"(99, 98, 96, 94, 93)",0:14:52,0:02:58,,
+2,Central,436,"(95, 91, 88, 84, 78)",0:16:09,0:03:14,,
+3,Como Park,413,"(87, 83, 82, 81, 80)",0:16:50,0:03:22,,
+4,Orono,399,"(97, 90, 79, 67, 66)",0:16:58,0:03:24,,
+5,Mound Westonka,390,"(100, 89, 73, 65, 63)",0:17:11,0:03:26,,
+6,Holy Family,221,"(85, 74, 62)",0:17:54,0:03:35,,
+Place,"Name, Grade",Team,School,Time,Pace,Back,Points
+1,"Charlie Reinhardt, 11",1,Mound Westonka,0:14:17,0:02:51,0:00:00,100
+2,"Ben Earl-Moseley, 12",1,Highland Park,0:14:32,0:02:54,0:00:15,99
+3,"Nat Alden, 11",2,Highland Park,0:14:41,0:02:56,0:00:24,98
+4,"George Goldade, 12",1,Orono,0:14:46,0:02:57,0:00:29,97
+5,"Otto Schmidt, 9",3,Highland Park,0:14:53,0:02:59,0:00:36,96
+6,"Leland Johnson, 12",1,Central,0:15:01,0:03:00,0:00:44,95
+7,"Ian Boylan,11",4,Highland Park,0:15:06,0:03:01,0:00:49,94
+8,"Ed Shaw, 12",5,Highland Park,0:15:09,0:03:02,0:00:52,93
+9,"Josip Temali, 12",6,Highland Park,0:15:19,0:03:04,0:01:02,92
+10,"Aidan Finnegan, 10",2,Central,0:15:47,0:03:09,0:01:30,91
+11,"Kevin Cornelius, 12",2,Orono,0:15:48,0:03:10,0:01:31,90
+11,"Andrew Abegglen, 11",2,Mound Westonka,0:15:59,0:03:12,0:01:42,89
+13,"Elliot Norton-Bower, 9",3,Central,0:16:01,0:03:12,0:01:44,88
+14,"Eli Pattison, 12",1,Como Park,0:16:21,0:03:16,0:02:04,87
+15,"Eli Sage-Martinson, 12",7,Highland Park,0:16:23,0:03:17,0:02:06,86
+16,"Calvin Boone, 10",8,Highland Park,0:16:24,0:03:17,0:02:07,x
+17,"Tyler Franck, 10",1,Holy Family,0:16:27,0:03:17,0:02:10,85
+18,"Leif Saveraid, 12",4,Central,0:16:46,0:03:21,0:02:29,84
+19,"Nick Jacobsen, 10",2,Como Park,0:16:51,0:03:22,0:02:34,83
+20,"Antero Sivula, 11",3,Como Park,0:16:52,0:03:22,0:02:35,82
+21,"Tristin Schulz, 11",9,Highland Park,0:16:58,0:03:24,0:02:41,x
+22,"Jackson Lee, 11",4,Como Park,0:17:01,0:03:24,0:02:44,81
+23,"Alistair Pattison, 10",5,Como Park,0:17:05,0:03:25,0:02:48,80
+24,"Colin Jones, 8",3,Orono,0:17:06,0:03:25,0:02:49,79
+25,"Zachary Danielson, 10",5,Central,0:17:11,0:03:26,0:02:54,78
+26,"Oliver Swanson, 9",6,Central,0:17:18,0:03:28,0:03:01,77
+26,"Perry Lutter, 9",7,Central,0:17:25,0:03:29,0:03:08,76
+28,"Lucas Carmichael-Tanaka, 12",6,Como Park,0:17:33,0:03:31,0:03:16,75
+29,"Aidan Olsen, 10",2,Holy Family,0:18:01,0:03:36,0:03:44,74
+30,"Kade Retterath, 11",3,Mound Westonka,0:18:02,0:03:36,0:03:45,73
+31,"Liam Kennedy, 10",8,Central,0:18:04,0:03:37,0:03:47,x
+32,"Cole Johnson, 10",10,Highland Park,0:18:20 [1],0:03:40,0:04:03,x
+32,"Noah Johnson, 11",9,Central,0:18:20,0:03:40,0:04:03,x
+34,"Angelo Fiataruolo, 8",4,Orono,0:18:32,0:03:42,0:04:15,67
+35,"Henry Jaffray, 12",5,Orono,0:18:36,0:03:43,0:04:19,66
+36,"Joe Woychick, 11",4,Mound Westonka,0:18:38,0:03:44,0:04:21,65
+37,"Dominic Wolters, 12",7,Como Park,0:18:56,0:03:47,0:04:39,64
+38,"Carsten Doepnerhove, 11",5,Mound Westonka,0:19:01,0:03:48,0:04:44,63
+39,"Andreas Kendrick, 12",10,Central,0:19:03,0:03:49,0:04:46,x
+40,"Danny Marschall, 12",3,Holy Family,0:19:14,0:03:51,0:04:57,62
+41,"Timmy Dudley, 12",6,Orono,0:19:45,0:03:57,0:05:28,61
+42,"Earl Eldridge, 12",8,Como Park,0:19:46,0:03:57,0:05:29,x
+42,"Arlo Beckman, 12",9,Como Park,0:19:58,0:04:00,0:05:41,x
+44,"Sawyer Wall, 10",10,Como Park,0:20:25,0:04:05,0:06:08,x
+45,"Braden Kavanagh, 9",7,Orono,0:20:29,0:04:06,0:06:12,60
+46,"Matt Koltes, 10",8,Orono,0:21:14,0:04:15,0:06:57,x
+47,"Ben McCurry, 12",6,Mound Westonka,0:21:33,0:04:19,0:07:16,59
+48,"Jack Swenson, 12",9,Orono,0:21:41,0:04:20,0:07:24,x
+49,"Robbie Brustad, 10",7,Mound Westonka,0:21:57,0:04:23,0:07:40,58
+50,"Alexander Erickson, 12",8,Mound Westonka,0:22:29,0:04:30,0:08:12,x
+51,"Thomas Elliott, 11",9,Mound Westonka,0:22:43,0:04:33,0:08:26,x
+52,"Vasiliy Zbarouski, 8",10,Orono,0:24:17,0:04:51,0:10:00,x
+Boys JV,,,,,,,
+Place,"Name, Grade",Team,School,Time,Pace,Back,
+1,"Theo Sage-Martinson, 12",1,Highland Park,0:16:32,0:03:18,0:00:00,
+2,"Emmett Donohue, 11",2,Highland Park,0:16:41,0:03:20,0:00:09,
+3,"Davis Isom, 7",3,Highland Park,0:17:16,0:03:27,0:00:44,
+4,"Sid Gross,12",4,Highland Park,0:17:22,0:03:28,0:00:50,
+5,"Oliver Paleen, 10",5,Highland Park,0:17:31,0:03:30,0:00:59,
+6,"Marcus Hansen, 10",6,Highland Park,0:17:36,0:03:31,0:01:04,
+7,"Adam Swanson, 9",1,Central,0:17:47,0:03:33,0:01:15,
+8,"Jack Johnson, 11",7,Highland Park,0:18:02,0:03:36,0:01:30,
+9,"Alex Page, 10",8,Highland Park,0:18:46,0:03:45,0:02:14,
+10,"Eric Boylan, 9",9,Highland Park,0:18:49,0:03:46,0:02:17,
+11,"Connor Scott, 10",2,Central,0:18:52,0:03:46,0:02:20,
+12,"Quincy Altman, 11",10,Highland Park,0:19:26,0:03:53,0:02:54,
+13,"Simon Rhode, 9",3,Central,0:19:28,0:03:54,0:02:56,
+14,"Joshua Mason, 10",11,Highland Park,0:19:29,0:03:54,0:02:57,
+15,"Miles Pretel, 10",4,Central,0:19:44,0:03:57,0:03:12,
+16,"Liam Morrissey, 12",12,Highland Park,0:19:46,0:03:57,0:03:14,
+17,"Eoin McVey, 9",5,Central,0:19:56,0:03:59,0:03:24,
+18,"Alex Pfankuch, 8",13,Highland Park,0:20:01,0:04:00,0:03:29,
+19,"Avery Farmer, 11",14,Highland Park,0:20:24,0:04:05,0:03:52,
+20,"Jesse Peterson, 9",15,Highland Park,0:20:46,0:04:09,0:04:14,
+21,"Owen Tonneson, 11",,6,Central,0:20:57,0:04:11,0:04:25
+22,"Andy Valitchka, 11",,16,Highland Park,0:21:10,0:04:14,0:04:38
+23,"Lance Georgeson, 7",,17,Highland Park,0:21:24,0:04:17,0:04:52
+24,"Sam VanSpriell, 10",,18,Highland Park,0:21:26,0:04:17,0:04:54
+25,"Charles Wilson-Jackson, 9",,7,Central,0:21:57,0:04:23,0:05:25
+26,"Sev Holm, 10",,8,Central,0:22:04,0:04:25,0:05:32
+27,"Jackson Hume, 9",,9,Central,0:22:12,0:04:26,0:05:40
+28,"Charles Ostergren, 7",,10,Central,0:22:30,0:04:30,0:05:58
+29,"Max Reemtsma, 7",,19,Highland Park,0:22:37,0:04:31,0:06:05
+30,"Joshua Thompson, 7",,20,Highland Park,0:22:38,0:04:32,0:06:06
+31,"Cooper Cordes, 10",,11,Central,0:22:46,0:04:33,0:06:14
+32,"Anders Lind, 10",,12,Central,0:23:09,0:04:38,0:06:37
+33,"Karsten Mink, 8",,21,Highland Park,0:23:13,0:04:39,0:06:41
+34,"Nick Amann, 12",,22,Highland Park,0:23:22,0:04:40,0:06:50
+35,"Adam Meyers, 9",,23,Highland Park,0:23:28,0:04:42,0:06:56
+36,"Stian Asper, 8",,13,Central,0:23:46,0:04:45,0:07:14
+37,"Dylan Osborn, 9",,1,Mound Westonka,0:23:56,0:04:47,0:07:24
+38,"Carl Olson-Skog, 10",,14,Central,0:24:32,0:04:54,0:08:00
+39,"Henry Norton-Bower, 7",,15,Central,0:24:38,0:04:56,0:08:06
+40,"Carson Merritt, 9",,2,Mound Westonka,0:24:58,0:05:00,0:08:26
+41,"Jasper Treat, 11",,3,Mound Westonka,0:26:14,0:05:15,0:09:42
+42,"Justin Taylor, 7",,24,Highland Park,0:26:21,0:05:16,0:09:49
+43,"Dylan Hauge, 9",,16,Central,0:27:05,0:05:25,0:10:33
+44,"Felix Hengelfelt,",9,17,Central,0:28:01,0:05:36,0:11:29
+45,"Adrian Hauge, 7",,18,Central,0:28:03,0:05:37,0:11:31
+46,"Lucas Wiebe, 9",,19,Central,0:33:55,0:06:47,0:17:23
+47,"Henry Verhorven, 8",,25,Highland Park,0:35:54,0:07:11,0:19:22
+48,"Henry Phillips, 9",,20,Central,0:36:18,0:07:16,0:19:46
